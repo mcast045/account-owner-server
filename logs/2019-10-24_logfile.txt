@@ -1,0 +1,2 @@
+2019-10-24 12:28:35.2004 INFO Returned all owners from database.
+2019-10-24 12:31:10.6760 INFO Returned all owners from database.

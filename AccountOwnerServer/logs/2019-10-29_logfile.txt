@@ -1,0 +1,13 @@
+2019-10-29 12:12:09.3618 INFO Returned all owners from database.
+2019-10-29 12:12:14.5265 INFO Returned owner with details for id: 261e1685-cf26-494c-b17c-3546e65f5620
+2019-10-29 12:12:34.7360 INFO Returned all owners from database.
+2019-10-29 12:13:26.1531 INFO Returned all owners from database.
+2019-10-29 12:58:59.2135 INFO Returned all owners from database.
+2019-10-29 13:04:02.4841 INFO Returned all owners from database.
+2019-10-29 13:06:03.3279 INFO Returned all owners from database.
+2019-10-29 13:22:29.8685 INFO Returned all owners from database.
+2019-10-29 13:33:42.6331 INFO Returned all owners from database.
+2019-10-29 13:34:00.3338 INFO Returned all owners from database.
+2019-10-29 13:36:21.5517 INFO Returned all owners from database.
+2019-10-29 13:36:28.4702 INFO Returned all owners from database.
+2019-10-29 13:36:51.0835 INFO Returned all owners from database.

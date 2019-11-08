@@ -1,0 +1,4 @@
+2019-10-22 17:43:06.8488 INFO Here is info message
+2019-10-22 17:43:06.8774 DEBUG Here is Debug message
+2019-10-22 17:43:06.8980 WARN Here is warn message
+2019-10-22 17:43:06.8980 ERROR Here is error message

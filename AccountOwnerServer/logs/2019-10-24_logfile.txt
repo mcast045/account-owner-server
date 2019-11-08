@@ -1,0 +1,36 @@
+2019-10-24 12:45:43.5014 INFO Returned all owners from database.
+2019-10-24 12:45:48.6080 INFO Returned all owners from database.
+2019-10-24 13:05:12.1269 INFO Returned owner with id: 261e1685-cf26-494c-b17c-3546e65f5620
+2019-10-24 13:05:47.4591 ERROR Owner with id: 00000000-0000-0000-0000-000000000000, hasn't been found in db.
+2019-10-24 14:25:18.1906 INFO Returned all owners from database.
+2019-10-24 14:25:42.8959 INFO Returned owner with details for id: 261e1685-cf26-494c-b17c-3546e65f5620
+2019-10-24 14:43:38.1620 INFO Returned all owners from database.
+2019-10-24 14:45:02.2750 INFO Returned all owners from database.
+2019-10-24 14:45:35.0903 INFO Returned all owners from database.
+2019-10-24 15:08:55.7048 INFO Returned owner with id: 256eb0d1-83b6-4bfd-990f-dc9ddca137e8
+2019-10-24 15:09:05.7812 INFO Returned all owners from database.
+2019-10-24 15:25:47.7038 INFO Returned owner with id: 256eb0d1-83b6-4bfd-990f-dc9ddca137e8
+2019-10-24 15:26:00.7245 ERROR Owner with id: 256eb0d1-83b6-4bfd-990f-dc9ddca137e8, hasn't been found in db.
+2019-10-24 15:26:14.8982 INFO Returned all owners from database.
+2019-10-24 15:26:31.4361 ERROR Something went wrong inside DeleteOwner action: An error occurred while updating the entries. See the inner exception for details.
+2019-10-24 15:34:18.3794 ERROR Cannot delete owner with id {id}. Please delete related accounts first
+2019-10-24 16:13:44.0947 INFO Returned all owners from database.
+2019-10-24 16:14:07.6974 INFO Returned all accounts from database
+2019-10-24 16:23:34.6873 INFO Returned all accounts from database
+2019-10-24 16:32:03.2623 INFO Returned account with id: c6066eb0-53ca-43e1-97aa-3c2169eec659
+2019-10-24 16:42:32.1560 INFO Returned all accounts from database
+2019-10-24 17:04:08.7313 INFO Returned all accounts from database
+2019-10-24 17:19:54.9251 INFO Returned all accounts from database
+2019-10-24 17:20:16.9975 INFO Returned account with id: 356a5a9b-64bf-4de0-bc84-5395a1fdc9c4
+2019-10-24 17:31:46.1076 INFO Returned account with id: 356a5a9b-64bf-4de0-bc84-5395a1fdc9c4
+2019-10-24 17:32:04.9621 INFO Returned all accounts from database
+2019-10-24 17:32:18.0378 INFO Returned all accounts from database
+2019-10-24 17:36:59.9495 INFO Returned all accounts from database
+2019-10-24 17:37:07.5939 ERROR Account with id: 356a5a9b-64bf-4de0-bc84-5395a1fdc9c4, hasn't been found in db.
+2019-10-24 17:48:01.9820 INFO Returned all accounts from database
+2019-10-24 17:48:29.7430 INFO Returned all accounts from database
+2019-10-24 17:49:41.6078 INFO Returned all accounts from database
+2019-10-24 17:49:51.2481 INFO Returned account with id: c8486d6e-0f16-48e1-b551-b1154d64dd3e
+2019-10-24 17:50:03.3940 INFO Returned all accounts from database
+2019-10-24 17:50:20.3461 INFO Returned all accounts from database
+2019-10-24 17:50:55.1929 INFO Returned all accounts from database

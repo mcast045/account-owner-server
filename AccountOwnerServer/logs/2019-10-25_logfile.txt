@@ -1,0 +1,1 @@
+2019-10-25 13:11:58.6677 INFO Returned all owners from database.
