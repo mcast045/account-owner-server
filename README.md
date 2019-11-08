@@ -6,4 +6,4 @@
 * In AccountOwnerServer/nlog.config, set internalLogFile and fileName to your own file paths.
 * Run server.
 
-The front-end application is in my LandMonkClient repository
+The front-end application is in my account-owner-client repository
