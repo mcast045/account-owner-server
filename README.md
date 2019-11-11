@@ -1,8 +1,8 @@
 # Account-Owner Server 
 This is an ASP.NET Core Web API application. It uses a MySQL database and employs a Repository pattern, generics, LINQ, and Entity Framework Core. The architecture and code organization uses multiple projects and services to demonstrate good practices, and to make the code more readable and maintainable.
 
-It is deployed on Heroku as a Docker container at [here](https://damp-bastion-23446.herokuapp.com/) <br>
-The front-end code is located at <YourFrontEndGithubRepository>
+It is deployed on Heroku as a Docker container at [here](https://damp-bastion-23446.herokuapp.com/) <br><br>
+The front-end code is located at [here](https://github.com/mcast045/account-owner-client)
 
 ## Summary
 * Created database schemas, tables and relations and populated the tables with data using MySQL Workbench/
